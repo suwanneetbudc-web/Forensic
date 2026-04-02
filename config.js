@@ -13,11 +13,11 @@
 const CONFIG = {
     // 🌐 URL ของ Google Apps Script (ตัวใหม่ที่รวมโค้ดแล้ว)
     // สามารถใช้ลิงก์เดียวกันได้เลย เพราะระบบ Backend แยกส่วนให้แล้ว
-    WEB_APP_API: "https://script.google.com/macros/s/AKfycbxyoZphZPzWWTThzy5_ngYNIUA2rqQ2NnZ7SXTXhPpv0eX9N34j0FIGNClB4QD0TFpohg/exec",
+    WEB_APP_API: "https://script.google.com/macros/s/AKfycby7zlXH-rJpcSaUmkYuk2lJhH3HEM4GLRZpETfkJCQqnHmCKdLgb6NqJmhy6FdQW4oI/exec",
 
     // 📱 LIFF IDs
-    LIFF_ID_CHECKIN: "2009669853-BlfyHgkq",
-    LIFF_ID_HISTORY: "2009669853-MWRBCx87",
+    LIFF_ID_CHECKIN: "2009680392-n6LcaTbd",
+    LIFF_ID_HISTORY: "2009680392-sBSWmX8T",
    
 
     // 📍 การตั้งค่าพิกัดสถานที่ (ละติจูด, ลองจิจูด)
