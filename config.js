@@ -16,9 +16,9 @@ const CONFIG = {
     WEB_APP_API: "https://script.google.com/macros/s/AKfycbzUwMzks27DNUDGYQRwdnGeUWb7fvjBW1knwBp3sDQtdq1i3jQ60zmWkGFsZPh-ZDk_SA/exec",
 
     // 📱 LIFF IDs
-    LIFF_ID_CHECKIN: "2008088008-48JzVeeQ",
-    LIFF_ID_HISTORY: "2008088008-jWGqwvvn",
-    LIFF_ID_REGISTER: "2008088008-RGaXeww4",
+    LIFF_ID_CHECKIN: "2009680392-n6LcaTbd",
+    LIFF_ID_HISTORY: "2009680392-sBSWmX8T",
+    
 
     // 📍 การตั้งค่าพิกัดสถานที่ (ละติจูด, ลองจิจูด)
     TARGET_LATITUDE: 16.807157,
