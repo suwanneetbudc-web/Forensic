@@ -13,7 +13,7 @@
 const CONFIG = {
     // 🌐 URL ของ Google Apps Script (ตัวใหม่ที่รวมโค้ดแล้ว)
     // สามารถใช้ลิงก์เดียวกันได้เลย เพราะระบบ Backend แยกส่วนให้แล้ว
-    WEB_APP_API: "https://suwanneetbudc-web.github.io/Forensic/",
+    WEB_APP_API: "https://script.google.com/macros/s/AKfycbzaazdXlG3QPvtwvVik2UJ55kQ_LqXv4jrGwLp-yV8FtZdJutx4Wowq3YDQn8iFmyrR/exec",
 
     // 📱 LIFF IDs
     LIFF_ID_CHECKIN: "2009680949-1H5NJBIf",
