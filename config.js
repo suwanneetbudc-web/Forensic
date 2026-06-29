@@ -16,8 +16,8 @@ const CONFIG = {
     WEB_APP_API: "https://script.google.com/macros/s/AKfycbzaazdXlG3QPvtwvVik2UJ55kQ_LqXv4jrGwLp-yV8FtZdJutx4Wowq3YDQn8iFmyrR/exec",
 
     // 📱 LIFF IDs
-    LIFF_ID_CHECKIN: "2009680949-1H5NJBIf",
-    LIFF_ID_HISTORY: "2009680949-4h0WZTju",
+    LIFF_ID_CHECKIN: "2010544153-zsFdsrNn", 
+    LIFF_ID_HISTORY: "2010544153-d3wvTVA7", 
    
 
     // 📍 การตั้งค่าพิกัดสถานที่ (ละติจูด, ลองจิจูด)
